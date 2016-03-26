@@ -1,3 +1,1 @@
-test content
-
-Added a new line.
+New test content
